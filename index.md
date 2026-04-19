@@ -1,15 +1,18 @@
 ---
 layout: default
 ---
+<link rel="stylesheet" href="style.css">
 
 <div style="display:flex; align-items:center; gap:20px;">
 
 <img src="/images/profile.jpg" width="180" style="border-radius:10px;">
 
 <div>
-<h1>Larissa Migotto</h1>
-<p>Ph.D. Candidate in Political Science<br>
-University of Illinois Urbana-Champaign</p>
+<h1 style="margin:0; color:#13294B;">Larissa Migotto</h1>
+<p style="margin:5px 0;">
+Ph.D. Candidate in Political Science<br>
+University of Illinois Urbana-Champaign
+</p>
 </div>
 
 </div>
