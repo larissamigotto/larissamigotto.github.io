@@ -13,8 +13,6 @@ title: Research
     <i class="fa fa-book icon"></i>Research</a>
   <a href="https://larissamigotto.github.io/teaching.html">
     <i class="fa fa-chalkboard-teacher icon"></i>Teaching</a>
-  <a href="https://larissamigotto.github.io/awards.html">
-    <i class="fa fa-trophy icon"></i>Awards</a>
   <a href="https://larissamigotto.github.io/contact.html">
     <i class="fa fa-envelope icon"></i>Contact</a>
 </nav>
