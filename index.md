@@ -5,12 +5,14 @@ layout: default
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-<nav style="margin-bottom: 30px;">
-  <a href="https://larissamigotto.github.io/" style="margin-right:20px;">Home</a>
-  <a href="https://larissamigotto.github.io/research.html" style="margin-right:20px;">Research</a>
-  <a href="https://larissamigotto.github.io/teaching.html" style="margin-right:20px;">Teaching</a>
-  <a href="https://larissamigotto.github.io/contact.html">Contact</a>
+<nav>
+  <a href="https://larissamigotto.github.io/" class="active"><i class="fa fa-home icon"></i>Home</a>
+  <a href="https://larissamigotto.github.io/research.html"><i class="fa fa-book icon"></i>Research</a>
+  <a href="https://larissamigotto.github.io/teaching.html"><i class="fa fa-chalkboard-teacher icon"></i>Teaching</a>
+  <a href="https://larissamigotto.github.io/contact.html"><i class="fa fa-envelope icon"></i>Contact</a>
 </nav>
+
+
 
 
 <div style="display:flex; align-items:center; gap:20px;">
