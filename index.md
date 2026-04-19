@@ -5,10 +5,10 @@ layout: default
 <link rel="stylesheet" href="style.css">
 
 <nav style="margin-bottom: 30px;">
-  <a href="./index.html" style="margin-right:20px;">Home</a>
-  <a href="./research.html" style="margin-right:20px;">Research</a>
-  <a href="./teaching.html" style="margin-right:20px;">Teaching</a>
-  <a href="./contact.html">Contact</a>
+  <a href="https://larissamigotto.github.io/" style="margin-right:20px;">Home</a>
+  <a href="https://larissamigotto.github.io/research.html" style="margin-right:20px;">Research</a>
+  <a href="https://larissamigotto.github.io/teaching.html" style="margin-right:20px;">Teaching</a>
+  <a href="https://larissamigotto.github.io/contact.html">Contact</a>
 </nav>
 
 
