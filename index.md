@@ -44,7 +44,7 @@ at the University of Illinois Urbana-Champaign.
 </p>
 
 <p>
-My research explores comparative political behavior in Latin America, with a focus on local politics, polarization, and elite campaigning in Brazil. I examine why municipal candidates use national political figures as campaign cues and how voters respond to them. Methodologically, I combine elite interviews, text analysis, and survey experiments.
+My research explores comparative political behavior in Latin America, with a focus on local politics, polarization, and elite campaigning in Brazil. I examine how municipal candidates use national political figures as campaign cues and how voters respond to these signals. Methodologically, I combine elite interviews, text analysis, and survey experiments.
 </p>
 
 <p>
