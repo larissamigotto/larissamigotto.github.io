@@ -7,13 +7,13 @@ title: Teaching
 
 # Teaching
 
-## Instructor of Record, University of Illinois, Urbana-Champaign
+## Instructor of Record
 
 – Politics of the European Union (PS 385, Summer 2025)
 
 – Introduction to Political Research (PS 230, Spring 2024)
 
-## Graduate Teaching Assistant, University of Illinois Urbana–Champaign
+## Graduate Teaching Assistant
 
 – Doing Diversity Science Program (AREES, Summer 2024 & Summer 2025)
 
@@ -26,6 +26,6 @@ title: Teaching
 – Introduction to Latin America (LAST 170, Fall 2019, Spring 2020, Fall 2021,
 Spring 2022, Summer 2022)
 
-## Grader, University of Illinois, Urbana-Champaign
+## Grader
 
 – Government & Politics in Western Europe (PS 348, Fall 2022 & Fall 2023 
