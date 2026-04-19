@@ -37,8 +37,23 @@ University of Illinois Urbana-Champaign
 
 ## About
 
-I study comparative political behavior and political communication, focusing on how national polarization shapes local elections in Brazil.
+<p>
+Hi! I'm a Ph.D. candidate in the 
+<a href="https://pol.illinois.edu/" target="_blank">Department of Political Science</a> 
+at the University of Illinois Urbana-Champaign.
+</p>
 
-My research examines why municipal candidates use national political figures as campaign cues and how voters respond to them.
+<p>
+My research explores comparative political behavior in Latin America, with a focus on local politics, polarization, and elite campaigning in Brazil. I examine why municipal candidates use national political figures as campaign cues and how voters respond to them. Methodologically, I combine elite interviews, text analysis, and survey experiments.
+</p>
+
+<p>
+I hold an M.A. in Latin American Studies from the University of Illinois Urbana-Champaign, and a B.A. in International Relations from 
+<a href="https://www.unisinos.br/" target="_blank">Universidade do Vale do Rio dos Sinos (UNISINOS)</a>.
+</p>
+
+<p>
+Beyond academia, I enjoy watching sports (especially baseball and soccer), running, and learning new languages.
+</p>
 
 
