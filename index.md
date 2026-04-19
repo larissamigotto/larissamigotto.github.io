@@ -1,7 +1,16 @@
 ---
 layout: default
 ---
+
 <link rel="stylesheet" href="style.css">
+
+<nav style="margin-bottom: 30px;">
+  <a href="/" style="margin-right:20px;">Home</a>
+  <a href="/research.html" style="margin-right:20px;">Research</a>
+  <a href="/teaching.html" style="margin-right:20px;">Teaching</a>
+  <a href="/contact.html">Contact</a>
+</nav>
+
 
 <div style="display:flex; align-items:center; gap:20px;">
 
