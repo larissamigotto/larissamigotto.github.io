@@ -55,3 +55,13 @@ nav a.active {
 .icon {
   margin-right: 6px;
 }
+
+h2 {
+  border-bottom: 2px solid #13294B;
+  padding-bottom: 5px;
+  margin-top: 30px;
+}
+
+li {
+  margin-bottom: 10px;
+}
