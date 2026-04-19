@@ -54,4 +54,8 @@ Spring 2022, Summer 2022)
 ## Contact
 
 Email: larissa5@illinois.edu
+
+Linkedin: https://www.linkedin.com/in/larissa-migotto/
+
 GitHub: https://github.com/larissamigotto
+
