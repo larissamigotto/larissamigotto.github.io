@@ -3,6 +3,7 @@ layout: default
 ---
 
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <nav style="margin-bottom: 30px;">
   <a href="https://larissamigotto.github.io/" style="margin-right:20px;">Home</a>
