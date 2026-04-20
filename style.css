@@ -70,3 +70,11 @@ li {
 h1:first-of-type {
   display: none;
 }
+
+ul {
+  padding-left: 20px;
+}
+
+li strong {
+  color: #13294B;
+}
