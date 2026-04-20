@@ -14,15 +14,20 @@ title: Contact
   <a href="contact.html" class="active"><i class="fa fa-envelope icon"></i>Contact</a>
 </nav>
 
-# Contact
+<h2>Contact</h2>
 
 <p>
-  <i class="fa fa-envelope"></i> larissa5@illinois.edu</p>
+  <i class="fa fa-envelope"></i>
+  <a href="mailto:larissa5@illinois.edu">larissa5@illinois.edu</a>
+</p>
+
 <p>
   <i class="fab fa-github"></i>
   <a href="https://github.com/larissamigotto" target="_blank">GitHub</a>
+</p>
+
 <p>
   <i class="fab fa-linkedin"></i>
-  <a href="https://www.linkedin.com/in/larissa-migotto">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/larissa-migotto" target="_blank">LinkedIn</a>
 </p>
 
