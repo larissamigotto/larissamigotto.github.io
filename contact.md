@@ -10,6 +10,7 @@ title: Contact
   <a href="/"><i class="fa fa-home icon"></i>Home</a>
   <a href="research.html"><i class="fa fa-book icon"></i>Research</a>
   <a href="teaching.html"><i class="fa fa-chalkboard-teacher icon"></i>Teaching</a>
+  <a href="awards.html"> <i class="fa fa-trophy icon"></i>Awards</a>
   <a href="contact.html" class="active"><i class="fa fa-envelope icon"></i>Contact</a>
 </nav>
 
