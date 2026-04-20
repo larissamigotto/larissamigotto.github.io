@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: ""
 ---
 
 <link rel="stylesheet" href="style.css">
@@ -8,21 +8,26 @@ title: Research
 
 <nav>
   <a href="https://larissamigotto.github.io/">
-    <i class="fa fa-home icon"></i>Home</a>
+    <i class="fa fa-home icon"></i> Home
+  </a>
   <a href="https://larissamigotto.github.io/research.html" class="active">
-    <i class="fa fa-book icon"></i>Research</a>
+    <i class="fa fa-book icon"></i> Research
+  </a>
   <a href="https://larissamigotto.github.io/teaching.html">
-    <i class="fa fa-chalkboard-teacher icon"></i>Teaching</a>
+    <i class="fa fa-chalkboard-teacher icon"></i> Teaching
+  </a>
   <a href="https://larissamigotto.github.io/awards.html">
-    <i class="fa fa-trophy icon"></i>Awards</a>
+    <i class="fa fa-trophy icon"></i> Awards
+  </a>
   <a href="https://larissamigotto.github.io/contact.html">
-    <i class="fa fa-envelope icon"></i>Contact</a>
+    <i class="fa fa-envelope icon"></i> Contact
+  </a>
 </nav>
 
-# Research Interests
+<h2>Research Interests</h2>
 
-Comparative Politics
-
-Political Behavior
-
-Latin America
+<ul>
+  <li>Comparative Politics</li>
+  <li>Political Behavior</li>
+  <li>Latin America</li>
+</ul>
