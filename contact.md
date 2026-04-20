@@ -21,7 +21,7 @@ title: Contact
 <p>
   <i class="fab fa-github"></i>
   <a href="https://github.com/larissamigotto" target="_blank">GitHub</a>
-</p>
+<p>
   <i class="fab fa-linkedin"></i>
   <a href="https://www.linkedin.com/in/larissa-migotto">LinkedIn</a>
 </p>
