@@ -41,7 +41,7 @@ University of Illinois Urbana-Champaign
 <p>
 Hi! I'm a Ph.D. candidate in the 
 <a href="https://pol.illinois.edu/" target="_blank">Department of Political Science</a> 
-at the University of Illinois Urbana-Champaign.
+at the University of Illinois Urbana-Champaign. I am also a <a href="https://lemann.illinois.edu/" target="_blank">Lemann Graduate Fellow (2023-2025)</a>.
 </p>
 
 <p>
