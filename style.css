@@ -65,3 +65,8 @@ h2 {
 li {
   margin-bottom: 10px;
 }
+
+/* Hide the automatic page title */
+h1:first-of-type {
+  display: none;
+}
