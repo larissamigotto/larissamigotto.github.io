@@ -19,9 +19,9 @@ title: Contact
 <p>
   <i class="fa fa-envelope"></i> larissa5@illinois.edu</p>
 <p>
-  <i class="fa fa-github"></i> 
-  <a href="https://github.com/larissamigotto">GitHub</a></p>
-<p>
+  <i class="fab fa-github"></i>
+  <a href="https://github.com/larissamigotto" target="_blank">GitHub</a>
+</p>
   <i class="fab fa-linkedin"></i>
   <a href="https://www.linkedin.com/in/larissa-migotto">LinkedIn</a>
 </p>
