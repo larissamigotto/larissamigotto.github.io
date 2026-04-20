@@ -50,7 +50,7 @@ My research explores comparative political behavior in Latin America, with a foc
 
 <p>
 I hold an <a href="https://clacs.illinois.edu/" target="_blank>">M.A. in Latin American Studies</a> 
-from the University of Illinois Urbana-Champaign, and a B.A. in International Relations from 
+from the University of Illinois Urbana-Champaign, and a B.A. in International Relations from the 
 <a href="https://www.unisinos.br/" target="_blank">Universidade do Vale do Rio dos Sinos (UNISINOS)</a>.
 </p>
 
