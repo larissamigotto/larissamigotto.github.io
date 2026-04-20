@@ -25,8 +25,8 @@ title: ""
 <img src="/images/profile.jpg" width="180" style="border-radius:10px;">
 
 <div>
-<h1 style="color:#13294B; margin-bottom:5px;">Larissa Migotto</h1>
-<hr style="width:80px; height:3px; background:#FF5F05; border:none; margin:10px 0;">
+<h1 style="margin:0; color:#13294B;">Larissa Migotto</h1>
+<p style="margin:5px 0;">
 Ph.D. Candidate in Political Science<br>
 University of Illinois Urbana-Champaign
 </p>
