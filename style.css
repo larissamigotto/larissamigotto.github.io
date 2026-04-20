@@ -78,3 +78,8 @@ ul {
 li strong {
   color: #13294B;
 }
+
+p i {
+  width: 20px;
+  margin-right: 8px;
+}
