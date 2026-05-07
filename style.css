@@ -1,7 +1,5 @@
 /* Hide default Jekyll header/title */
-header,
-header h1,
-.page-header {
+header {
   display: none !important;
 }
 
