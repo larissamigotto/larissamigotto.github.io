@@ -147,3 +147,10 @@ a:hover {
 body > h1:first-of-type {
   display: none !important;
 }
+
+/* Remove top theme header completely */
+.site-header,
+.page-header,
+header[role="banner"] {
+  display: none !important;
+}
