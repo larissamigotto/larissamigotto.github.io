@@ -17,7 +17,7 @@ body {
 .sidebar {
   width: 260px;
   padding: 60px 30px;
-  background: #f7f5f2;
+  background: #ffffff;              /* white sidebar */
   min-height: 100vh;
   border-right: 1px solid #e5e3df;
 }
@@ -88,6 +88,8 @@ body {
   flex: 1;
   padding: 50px 50px 50px 45px;
   max-width: 640px;
+  background: #f7f5f2;              /* beige content area */
+  min-height: 100vh;
 }
 
 /* Section label */
