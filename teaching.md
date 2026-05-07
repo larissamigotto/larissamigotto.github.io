@@ -5,7 +5,6 @@ title: ""
 
 <div class="container">
 
-  <!-- SIDEBAR -->
   <div class="sidebar">
     <img src="/images/profile.jpg" class="profile">
 
@@ -27,11 +26,9 @@ title: ""
     </nav>
   </div>
 
-  <!-- CONTENT -->
   <div class="content">
 
     <p class="section-label">TEACHING</p>
-
     <h1>Teaching</h1>
 
     <h2>Instructor of Record</h2>
@@ -44,10 +41,6 @@ title: ""
       Doing Diversity Science Program (AREES)
       </a> (Summer 2024 & Summer 2025)
     </p>
-    <p>Leadership and Professional Development (LAS 399, Spring 2022)</p>
-    <p>College Success for International Students (LAS 100, Fall 2021)</p>
-    <p>Social Innovations for Global Challenges (LAS 199, Fall 2021)</p>
-    <p>Introduction to Latin America (LAST 170)</p>
 
     <h2>Grader</h2>
     <p>Government & Politics in Western Europe (PS 348, Fall 2022 & Fall 2023)</p>
