@@ -3,6 +3,9 @@ layout: default
 title: ""
 ---
 
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+
 <div class="container">
 
   <!-- SIDEBAR -->
@@ -13,7 +16,7 @@ title: ""
     <p>Ph.D. Candidate in Political Science</p>
 
     <nav class="side-nav">
-      <a href="https://larissamigotto.github.io/">About</a>
+      <a href="https://larissamigotto.github.io/" class="active">About</a>
       <a href="https://larissamigotto.github.io/research.html">Research</a>
       <a href="https://larissamigotto.github.io/teaching.html">Teaching</a>
       <a href="https://larissamigotto.github.io/awards.html">Awards</a>
@@ -24,34 +27,31 @@ title: ""
   <!-- MAIN CONTENT -->
   <div class="content">
 
----
+    <p class="section-label">ABOUT</p>
 
-## About
+    <h1>Larissa Migotto</h1>
 
-<p>
-Hi! I'm a Ph.D. candidate in the 
-<a href="https://pol.illinois.edu/" target="_blank">Department of Political Science</a> 
-at the University of Illinois Urbana-Champaign, and a 
-<a href="https://lemann.illinois.edu/" target="_blank">Lemann Graduate Fellow (2024–2026)</a>.
-</p>
+    <p>
+    Hi! I'm a Ph.D. candidate in the 
+    <a href="https://pol.illinois.edu/" target="_blank">Department of Political Science</a> 
+    at the University of Illinois Urbana-Champaign, and a 
+    <a href="https://lemann.illinois.edu/" target="_blank">Lemann Graduate Fellow (2024–2026)</a>.
+    </p>
 
-<p>
-My research examines comparative political behavior in Latin America, with a focus on local politics, polarization, and elite campaign strategy in Brazil. In particular, I study how municipal candidates use national political figures as campaign cues and how voters respond to these signals. Methodologically, I combine elite interviews, computational text analysis, and survey experiments.
-</p>
+    <p>
+    My research examines comparative political behavior in Latin America, with a focus on local politics, polarization, and elite campaign strategy in Brazil. In particular, I study how municipal candidates use national political figures as campaign cues and how voters respond to these signals. Methodologically, I combine elite interviews, computational text analysis, and survey experiments.
+    </p>
 
-<p>
-I hold an 
-<a href="https://clacs.illinois.edu/" target="_blank">M.A. in Latin American Studies</a> 
-from the University of Illinois Urbana-Champaign and a B.A. in International Relations from the 
-<a href="https://www.unisinos.br/" target="_blank">Universidade do Vale do Rio dos Sinos (UNISINOS)</a>.
-</p>
+    <p>
+    I hold an 
+    <a href="https://clacs.illinois.edu/" target="_blank">M.A. in Latin American Studies</a> 
+    from the University of Illinois Urbana-Champaign and a B.A. in International Relations from the 
+    <a href="https://www.unisinos.br/" target="_blank">Universidade do Vale do Rio dos Sinos (UNISINOS)</a>.
+    </p>
 
-<p>
-Outside of academia, I enjoy watching sports (especially baseball and soccer), running, and learning new languages.
-</p>
+    <p>
+    Outside of academia, I enjoy watching sports (especially baseball and soccer), running, and learning new languages.
+    </p>
 
- </div>
+  </div>
 </div>
-
-
-
