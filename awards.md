@@ -6,7 +6,6 @@ title: ""
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-<nav>
   <a href="https://larissamigotto.github.io/">
     <i class="fa fa-home icon"></i>Home
   </a>
@@ -22,7 +21,6 @@ title: ""
   <a href="https://larissamigotto.github.io/contact.html">
     <i class="fa fa-envelope icon"></i>Contact
   </a>
-</nav>
 
 <h2>Fellowships & Awards</h2>
 
