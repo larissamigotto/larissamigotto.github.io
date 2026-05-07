@@ -103,3 +103,10 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+/* Hide Jekyll default page title */
+.page-title,
+h1.page-title,
+header h1 {
+  display: none;
+}
