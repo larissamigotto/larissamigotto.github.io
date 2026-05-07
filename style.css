@@ -28,9 +28,9 @@ header {
 /* Sidebar name */
 .sidebar h2 {
   font-family: 'Playfair Display', serif;
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 400;
-  color: #2a2a2a;
+  color: #2b2b2b;
 }
 
 /* Divider under name */
@@ -109,10 +109,11 @@ header {
 /* Main title */
 .content h1 {
   font-family: 'Playfair Display', serif;
-  font-size: 48px;
+  font-size: 52px;        /* slightly larger */
   font-weight: 400;
-  letter-spacing: 0.3px;
-  color: #2a2a2a;
+  letter-spacing: 0.2px;
+  color: #2b2b2b;         /* softer than black */
+  margin-bottom: 10px;
 }
 
 /* Divider under title */
@@ -128,15 +129,15 @@ header {
 /* Body text */
 .content p {
   font-size: 16px;
-  line-height: 1.8;
+  line-height: 1.85;      /* more breathing room */
   font-weight: 300;
-  color: #444;
+  color: #4a4a4a;
+  margin-bottom: 26px;
 }
 
 /* Links */
 a {
-  color: #b35c2e !important;
-  text-decoration: none;
+  color: #b4633a !important;  /* softer brown-orange */
 }
 
 a:hover {
