@@ -1,33 +1,40 @@
 ---
 layout: default
-title: Contact
+title: ""
 ---
 
-<link rel="stylesheet" href="style.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<div class="container">
 
-<nav>
-  <a href="/"><i class="fa fa-home icon"></i>Home</a>
-  <a href="research.html"><i class="fa fa-book icon"></i>Research</a>
-  <a href="teaching.html"><i class="fa fa-chalkboard-teacher icon"></i>Teaching</a>
-  <a href="awards.html"> <i class="fa fa-trophy icon"></i>Awards</a>
-  <a href="contact.html" class="active"><i class="fa fa-envelope icon"></i>Contact</a>
-</nav>
+  <div class="sidebar">
+    <img src="/images/profile.jpg" class="profile">
 
-<h2>Contact</h2>
+    <h2>Larissa Migotto</h2>
+    <p>Ph.D. Candidate in Political Science</p>
 
-<p>
-  <i class="fa fa-envelope"></i>
-  <a href="mailto:larissa5@illinois.edu">larissa5@illinois.edu</a>
-</p>
+    <div class="sidebar-icons">
+      <a href="mailto:larissa@illinois.edu"><i class="fa fa-envelope"></i></a>
+      <a href="https://github.com/larissamigotto" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/larissa-migotto/" target="_blank"><i class="fab fa-linkedin"></i></a>
+    </div>
 
-<p>
-  <i class="fab fa-github"></i>
-  <a href="https://github.com/larissamigotto" target="_blank">GitHub</a>
-</p>
+    <nav class="side-nav">
+      <a href="https://larissamigotto.github.io/">About</a>
+      <a href="https://larissamigotto.github.io/research.html">Research</a>
+      <a href="https://larissamigotto.github.io/teaching.html">Teaching</a>
+      <a href="https://larissamigotto.github.io/awards.html">Awards</a>
+      <a href="https://larissamigotto.github.io/contact.html" class="active">Contact</a>
+    </nav>
+  </div>
 
-<p>
-  <i class="fab fa-linkedin"></i>
-  <a href="https://www.linkedin.com/in/larissa-migotto" target="_blank">LinkedIn</a>
-</p>
+  <div class="content">
+
+    <p class="section-label">CONTACT</p>
+    <h1>Contact</h1>
+
+    <p>Email: <a href="mailto:larissa@illinois.edu">larissa@illinois.edu</a></p>
+    <p><a href="https://github.com/larissamigotto" target="_blank">GitHub</a></p>
+    <p><a href="https://www.linkedin.com/in/larissa-migotto/" target="_blank">LinkedIn</a></p>
+
+  </div>
+</div>
 
