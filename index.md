@@ -31,8 +31,7 @@ title: ""
       <a href="https://larissamigotto.github.io/awards.html">Awards</a>
       <a href="https://larissamigotto.github.io/contact.html">Contact</a>
     </nav>
-
-    <a href="#" class="cv-link">CV (available upon request)</a>
+    
   </div>
 
   <!-- MAIN CONTENT -->
