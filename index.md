@@ -12,6 +12,18 @@ title: ""
     <h2>Larissa Migotto</h2>
     <p>Ph.D. Candidate in Political Science</p>
 
+    <div class="sidebar-icons">
+  <a href="mailto:larissa@illinois.edu">
+    <i class="fa fa-envelope"></i>
+  </a>
+  <a href="https://github.com/larissamigotto" target="_blank">
+    <i class="fab fa-github"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/larissa-migotto/" target="_blank">
+    <i class="fab fa-linkedin"></i>
+  </a>
+</div>
+
     <nav class="side-nav">
       <a href="https://larissamigotto.github.io/" class="active">About</a>
       <a href="https://larissamigotto.github.io/research.html">Research</a>
