@@ -48,14 +48,6 @@ title: ""
       </a> (Summer 2024 & Summer 2025)
     </p>
 
-    <p>Leadership and Professional Development (LAS 399, Spring 2022)</p>
-    <p>College Success for International Students (LAS 100, Fall 2021)</p>
-    <p>Social Innovations for Global Challenges (LAS 199, Fall 2021)</p>
-
-    <p>
-      Introduction to Latin America (LAST 170, Fall 2019, Spring 2020, Fall 2021, 
-      Spring 2022, Summer 2022)
-    </p>
 
     <!-- Grader -->
     <h2>Grader</h2>
