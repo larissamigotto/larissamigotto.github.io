@@ -1,3 +1,11 @@
+/* ===== Base ===== */
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  color: #333;
+  background: #ffffff;
+}
+
 /* ===== Layout ===== */
 .container {
   display: flex;
@@ -8,47 +16,90 @@
 /* ===== Sidebar ===== */
 .sidebar {
   width: 260px;
-  padding: 30px 20px;
-  background: #f5f3f0; /* soft beige like his site */
+  padding: 40px 25px;
+  background: #f5f3f0; /* soft beige */
   min-height: 100vh;
 }
 
 .profile {
-  width: 120px;
+  width: 110px;
   border-radius: 50%;
   margin-bottom: 15px;
 }
 
-/* Sidebar text */
+/* Name (sidebar) */
 .sidebar h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 26px;
   margin: 10px 0 5px 0;
   color: #222;
 }
 
+/* Subtitle */
 .sidebar p {
   font-size: 14px;
   color: #666;
+  margin-bottom: 20px;
 }
 
-/* Sidebar nav */
+/* ===== Sidebar nav ===== */
 .side-nav {
-  margin-top: 20px;
   display: flex;
   flex-direction: column;
 }
 
 .side-nav a {
+  font-size: 15px;
   color: #444;
-  padding: 8px 0;
   text-decoration: none;
+  padding: 8px 0;
 }
 
 .side-nav a:hover {
-  color: #b35c2e; /* soft brown/orange like his */
+  color: #b35c2e; /* muted accent */
+}
+
+/* Active page */
+.side-nav a.active {
+  color: #b35c2e;
+  font-weight: 500;
 }
 
 /* ===== Main content ===== */
 .content {
   flex: 1;
-  padding: 40px;
+  padding: 50px;
+}
+
+/* Section label (like "ABOUT") */
+.section-label {
+  font-size: 12px;
+  letter-spacing: 2px;
+  color: #b35c2e;
+  margin-bottom: 10px;
+}
+
+/* Main title */
+.content h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 48px;
+  font-weight: 400;
+  margin-bottom: 20px;
+  color: #222;
+}
+
+/* Body text */
+.content p {
+  font-size: 16px;
+  line-height: 1.7;
+  margin-bottom: 20px;
+}
+
+/* Links */
+a {
+  color: #b35c2e;
+}
+
+a:hover {
+  text-decoration: underline;
 }
