@@ -4,8 +4,7 @@ title: ""
 ---
 
 <link rel="stylesheet" href="style.css">
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&family=Inter:wght@300;400&display=swap" rel="stylesheet">
-<div class="container">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Inter:wght@300;400&display=swap" rel="stylesheet"><div class="container">
 
   <!-- SIDEBAR -->
   <div class="sidebar">
