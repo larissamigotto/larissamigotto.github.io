@@ -52,10 +52,9 @@ body {
 /* Profile image */
 
 .profile {
-  width: 120px;
+  width: 110px;   /* try this first */
   border-radius: 50%;
-  margin-bottom: 28px;
-  filter: grayscale(100%);
+  margin-bottom: 20px;
 }
 
 /* Name */
