@@ -63,7 +63,7 @@ title: ""
 
     <p>
       <strong>List of Teachers Ranked as Excellent</strong>, University of Illinois<br>
-      (Spring 2020, Fall 2020, Fall 2021)
+      (Spring 2020, Fall 2020, Fall 2021; awarded during M.A. in Latin American Studies)
     </p>
 
   </div>
