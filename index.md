@@ -3,38 +3,26 @@ layout: default
 title: ""
 ---
 
-<link rel="stylesheet" href="style.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<div class="container">
 
-<nav>
-  <a href="https://larissamigotto.github.io/" class="active">
-    <i class="fa fa-home icon"></i>Home</a>
-  <a href="https://larissamigotto.github.io/research.html">
-    <i class="fa fa-book icon"></i>Research</a>
-  <a href="https://larissamigotto.github.io/teaching.html">
-    <i class="fa fa-chalkboard-teacher icon"></i>Teaching</a>
-  <a href="https://larissamigotto.github.io/awards.html">
-     <i class="fa fa-trophy icon"></i>Awards</a>
-  <a href="https://larissamigotto.github.io/contact.html">
-    <i class="fa fa-envelope icon"></i>Contact</a>
-</nav>
+  <!-- SIDEBAR -->
+  <div class="sidebar">
+    <img src="/images/profile.jpg" class="profile">
 
+    <h2>Larissa Migotto</h2>
+    <p>Ph.D. Candidate in Political Science</p>
 
+    <nav class="side-nav">
+      <a href="https://larissamigotto.github.io/">About</a>
+      <a href="https://larissamigotto.github.io/research.html">Research</a>
+      <a href="https://larissamigotto.github.io/teaching.html">Teaching</a>
+      <a href="https://larissamigotto.github.io/awards.html">Awards</a>
+      <a href="https://larissamigotto.github.io/contact.html">Contact</a>
+    </nav>
+  </div>
 
-
-<div style="display:flex; align-items:center; gap:20px;">
-
-<img src="/images/profile.jpg" width="180" style="border-radius:10px;">
-
-<div>
-<h2 style="margin:0; color:#13294B;">Larissa Migotto</h2>
-<p style="margin:5px 0;">
-Ph.D. Candidate in Political Science<br>
-University of Illinois Urbana-Champaign
-</p>
-</div>
-
-</div>
+  <!-- MAIN CONTENT -->
+  <div class="content">
 
 ---
 
@@ -61,5 +49,9 @@ from the University of Illinois Urbana-Champaign and a B.A. in International Rel
 <p>
 Outside of academia, I enjoy watching sports (especially baseball and soccer), running, and learning new languages.
 </p>
+
+ </div>
+</div>
+
 
 
