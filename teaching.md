@@ -3,51 +3,54 @@ layout: default
 title: ""
 ---
 
-<link rel="stylesheet" href="style.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<div class="container">
 
-<nav>
-  <a href="https://larissamigotto.github.io/">
-    <i class="fa fa-home icon"></i> Home
-  </a>
-  <a href="https://larissamigotto.github.io/research.html">
-    <i class="fa fa-book icon"></i> Research
-  </a>
-  <a href="https://larissamigotto.github.io/teaching.html" class="active">
-    <i class="fa fa-chalkboard-teacher icon"></i> Teaching
-  </a>
-  <a href="https://larissamigotto.github.io/awards.html">
-    <i class="fa fa-trophy icon"></i> Awards
-  </a>
-  <a href="https://larissamigotto.github.io/contact.html">
-    <i class="fa fa-envelope icon"></i> Contact
-  </a>
-</nav>
+  <!-- SIDEBAR -->
+  <div class="sidebar">
+    <img src="/images/profile.jpg" class="profile">
 
-<h2>Teaching</h2>
+    <h2>Larissa Migotto</h2>
+    <p>Ph.D. Candidate in Political Science</p>
 
-<h3>Instructor of Record</h3>
+    <div class="sidebar-icons">
+      <a href="mailto:larissa@illinois.edu"><i class="fa fa-envelope"></i></a>
+      <a href="https://github.com/larissamigotto" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/larissa-migotto/" target="_blank"><i class="fab fa-linkedin"></i></a>
+    </div>
 
-<ul>
-  <li>Politics of the European Union (PS 385, Summer 2025)</li>
-  <li>Introduction to Political Research (PS 230, Spring 2024)</li>
-</ul>
+    <nav class="side-nav">
+      <a href="https://larissamigotto.github.io/">About</a>
+      <a href="https://larissamigotto.github.io/research.html">Research</a>
+      <a href="https://larissamigotto.github.io/teaching.html" class="active">Teaching</a>
+      <a href="https://larissamigotto.github.io/awards.html">Awards</a>
+      <a href="https://larissamigotto.github.io/contact.html">Contact</a>
+    </nav>
+  </div>
 
-<h3>Graduate Teaching Assistant</h3>
+  <!-- CONTENT -->
+  <div class="content">
 
-<ul>
-  <li>
-    Doing Diversity Science Program 
-    (<a href="https://stage.publicengagement.web.illinois.edu/arees/" target="_blank">AREES</a>, Summer 2024 & Summer 2025)
-  </li>
-  <li>Leadership and Professional Development (LAS 399, Spring 2022)</li>
-  <li>College Success for International Students (LAS 100, Fall 2021)</li>
-  <li>Social Innovations for Global Challenges (LAS 199, Fall 2021)</li>
-  <li>Introduction to Latin America (LAST 170, Fall 2019, Spring 2020, Fall 2021, Spring 2022, Summer 2022)</li>
-</ul>
+    <p class="section-label">TEACHING</p>
 
-<h3>Grader</h3>
+    <h1>Teaching</h1>
 
-<ul>
-  <li>Government & Politics in Western Europe (PS 348, Fall 2022 & Fall 2023)</li>
-</ul>
+    <h2>Instructor of Record</h2>
+    <p>Politics of the European Union (PS 385, Summer 2025)</p>
+    <p>Introduction to Political Research (PS 230, Spring 2024)</p>
+
+    <h2>Graduate Teaching Assistant</h2>
+    <p>
+      <a href="https://stage.publicengagement.web.illinois.edu/arees/" target="_blank">
+      Doing Diversity Science Program (AREES)
+      </a> (Summer 2024 & Summer 2025)
+    </p>
+    <p>Leadership and Professional Development (LAS 399, Spring 2022)</p>
+    <p>College Success for International Students (LAS 100, Fall 2021)</p>
+    <p>Social Innovations for Global Challenges (LAS 199, Fall 2021)</p>
+    <p>Introduction to Latin America (LAST 170)</p>
+
+    <h2>Grader</h2>
+    <p>Government & Politics in Western Europe (PS 348, Fall 2022 & Fall 2023)</p>
+
+  </div>
+</div>
