@@ -20,10 +20,11 @@
   margin-bottom: 20px;
 }
 
-/* Name */
+/* Sidebar name */
 .sidebar h2 {
   font-family: 'Playfair Display', serif;
   font-size: 24px;
+  font-weight: 400;   /* ADD THIS */
   margin: 10px 0 10px 0;
   color: #222;
 }
@@ -101,11 +102,11 @@
   margin-bottom: 12px;
 }
 
-/* Title */
+/* Main title */
 .content h1 {
   font-family: 'Playfair Display', serif;
   font-size: 46px;
-  font-weight: 400;
+  font-weight: 300;   /* CHANGE from 400 → 300 */
   margin-bottom: 15px;
   color: #222;
 }
@@ -124,6 +125,7 @@
 .content p {
   font-size: 16px;
   line-height: 1.75;
+  font-weight: 300;   /* ADD THIS (lighter look) */
   margin-bottom: 22px;
 }
 
